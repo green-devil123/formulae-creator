@@ -1,0 +1,8 @@
+#For run Env
+- npm i
+- npm start
+
+# install
+- npm i exceljs - exceljs help to read all content in excel sheet as it is. It is not modify or read data which we don not  use it.
+- X npm i xlsx - Whenever we read data from this library it reads fine at the time of modify we have to mention or handle the original data or format which we were not used.
+
